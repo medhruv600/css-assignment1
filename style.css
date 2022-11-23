@@ -1,0 +1,33 @@
+.container {
+  background-color: rgb(223, 223, 29);
+  margin-left: 4px;
+}
+
+.logo {
+  height: 250px;
+  width: 1500px;
+  border: px solid black;
+}
+
+img {
+  margin-top: 30px;
+}
+
+.sat {
+  height: 500px;
+  width: 1500px;
+  color: white;
+  font-size: 80px;
+  background-color: black;
+}
+p {
+  font-size: 30px;
+  color: yellow;
+}
+.pm {
+  font-size: 80px;
+  color: yellow;
+}
+.xpm {
+  font-size: 30px;
+}
